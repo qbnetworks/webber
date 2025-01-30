@@ -2,6 +2,8 @@
 
 Yet another Laravel website
 
+Our goal is the write a simple one page website for many organizations under the umbrella of QB Networks. Please see License file below :
+
 # License
 
 Copyright (C) 2024-2025 QB Networks
