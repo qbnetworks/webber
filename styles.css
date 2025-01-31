@@ -10,3 +10,10 @@ p {
     font-family: monospace;
     font-size: 16px;
 }
+
+pre{
+    text-align: center;
+    font-family: monospace;
+    font-size: 23px;
+    color: #4C2447;
+}
