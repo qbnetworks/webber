@@ -9,6 +9,12 @@ h1 {
     color: blue;
 }
 
+h2 {
+    text-align: center;
+    font-family: monospace;
+    font-size: 16px;
+    color: blue;
+}
 p {
     text-align: center;
     font-family: monospace;
@@ -20,4 +26,14 @@ pre{
     font-family: monospace;
     font-size: 23px;
     color: #4C2447;
+}
+
+div.mycontainer {
+    width: 100%;
+    overflow: auto;
+}
+
+div.mycontainer div {
+    width: 33%;
+    float: left;
 }
